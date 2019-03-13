@@ -1,0 +1,17 @@
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/obj/Debug/Assembly-CSharp.dll
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/UnityEngine.dll
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/UnityEditor.dll
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/Mono.Cecil.dll
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/Unity.DataContract.dll
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/tugu/Desktop/3dge-puro/16rd179_final3d/Temp/bin/Debug/Mono.Cecil.Mdb.dll
